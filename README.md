@@ -1,7 +1,7 @@
 # Beomjong-ReadMe.md
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Beomjong Lee. 
-University of Wisconsin-Madison CS major. 
-I'm a junior at UW Madison. 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Beomjong Lee. 
+I am from the University of Wisconsin-Madison and I am a junior CS major. 
 I am interested in AI/ML/CV/Blockchain/Information Security. 
 I want to be a ML Engineer in Cybersecurity. 
 * 🌍  I'm based in South Korea
