@@ -4,7 +4,8 @@ University of Wisconsin-Madison CS major.
 I'm a junior at UW Madison. 
 I am interested in AI/ML/CV/Blockchain/Information Security. 
 I want to be a ML Engineer in Cybersecurity. 
-* 🌍  I'm based in South Korea * ✉️  You can contact me at [blee328@wisc.edu](mailto:blee328@wisc.edu)
+* 🌍  I'm based in South Korea
+* ✉️  You can contact me at [blee328@wisc.edu](mailto:blee328@wisc.edu)
 * 🚀  I'm currently working on [SpamMailDetector](http://github.com/jamesleelucky/SpamEmailDetection/blob/main/SpamEmailDetector.ipynb)
 * 🧠  I'm learning Introduction to Artificial Intelligence (CS 540)
 * ⚡  I like to read articles about AI and Crypto
